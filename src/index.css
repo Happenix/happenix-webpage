@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	margin: 0px;
+	padding: 50px;
+}
+
+@font-face {
+	font-family: 'rubik';
+	src: url('/Users/jaswanthsudha/Desktop/happenix-website/src/fonts/Rubik-Regular.ttf');
+}
