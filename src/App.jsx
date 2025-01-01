@@ -7,6 +7,7 @@ import insta from './assets/insta.png';
 import linkedIn from './assets/linke.png';
 import github from './assets/git.png';
 import phone from './assets/phone.png';
+//this is the chnage
 export default function App() {
 	return (
 		<div className=' min-h-screen'>
